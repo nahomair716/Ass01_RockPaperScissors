@@ -51,7 +51,7 @@ public class Main {
 
             if (choiceOne.equals("P") && choiceTwo.equals("R")) {
                 System.out.println("Paper covers Rock Player A wins");
-            } else if (choiceOne.equals("R") && choiceTwo.equals("R")) {
+            } else if (choiceOne.equals("R") && choiceTwo.equals("P")) {
                 System.out.println("Paper covers Rock Player B wins");
             }
 
